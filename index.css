@@ -1,0 +1,215 @@
+
+    /*
+    body {background-image: url('website_header_cut.jpg');
+      height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+      */
+
+body {
+    font-family:myFirstFont;
+    background-image: url('website_banner_neon.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    
+      @font-face {
+        font-family: myFirstFont;
+        src: url(Twentieth\ Century\ MT\ Semi\ Bold.ttf);
+      }
+
+.section {
+  background-color: rgb(77, 33, 158);
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(59, 19, 151, 0);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(26, 8, 109);
+}
+
+.row{display: flex;
+  flex-direction: row;}
+
+.center {text-align: center;}
+.vortexlogo {text-align:left}
+.container {position: relative;
+            text-align: center;
+            color: white;}
+
+            a:link {
+              color: white;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            a:visited {
+              color: white;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            a:hover {
+              color: white;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            a:active {
+              color: white;
+              background-color: transparent;
+              text-decoration: none;
+            }
+
+            ::-moz-selection { /* Code for Firefox */
+              color: rgb(255, 255, 255);
+              background: rgba(172, 71, 185, 0.377);
+            }
+            
+            ::selection {
+              color: rgb(255, 255, 255);
+              background: rgba(172, 71, 185, 0.377);
+            }
+
+
+            .button {
+              border: none;
+              color: white;
+              padding: 16px 32px;
+              text-align: center;
+              text-decoration: none;
+              display: inline-block;
+              font-size: 16px;
+              margin: 4px 2px;
+              transition-duration: 0.4s;
+              cursor: pointer;
+          }
+          
+          .button1 {
+              background-color: rgba(255, 255, 255, 0);
+              color: rgb(156, 117, 192);
+              border: 2px solid rgb(156, 117, 192);
+          }
+          
+          .button1:hover {
+              background-color: rgb(156, 117, 192);
+              color: white;
+          }
+          
+          .button2 {
+              background-color: rgba(255, 255, 255, 0);
+              color: rgb(216, 83, 165);
+              border: 2px solid rgb(216, 83, 165);
+          }
+          
+          .button2:hover {
+              background-color: rgb(216, 83, 165);
+              color: white;
+          }
+          
+          .button3 {
+              background-color: rgba(255, 255, 255, 0);
+              color: rgb(156, 117, 192);
+              border: 2px solid rgb(156, 117, 192);
+          }
+          
+          .button3:hover {
+              background-color: rgb(156, 117, 192);
+              color: white;
+          }
+
+          .button4 {
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(216, 83, 165);
+            border: 2px solid rgb(216, 83, 165);
+        }
+        
+        .button4:hover {
+            background-color: rgb(216, 83, 165);
+            color: white;
+        }
+        
+        .button5 {
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(156, 117, 192);
+            border: 2px solid rgb(156, 117, 192);
+        }
+        
+        .button5:hover {
+            background-color: rgb(156, 117, 192);
+            color: rgb(255, 255, 255);
+        }
+        
+        .button {
+          border: none;
+          color: white;
+          padding: 16px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          transition-duration: 0.4s;
+          cursor: pointer;
+      }
+
+
+.header {
+    background-image: url('website_banner_neon.gif');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+   */
+          
+.logos {text-align: left;}
+
+
+
+/*logos*/
+.fa {
+        padding: 20px;
+        font-size: 20px;
+        width: 20px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+          
+.fa:hover {
+        opacity: 0.7;
+          }
+          
+
+.fa-youtube {
+            background: #bb0000;
+            color: white;
+          }
+          
+.fa-twitter {
+            background: #55ACEE;
+            color: white;
+          }
+
