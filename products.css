@@ -98,7 +98,7 @@ ul {
 }
 
 .button1:hover {
-  background-color: rgb(156, 117, 192);
+  background-color: rgb(156, 117, 192, 0.438);
   color: white;
 }
 
@@ -109,7 +109,7 @@ ul {
 }
 
 .button2:hover {
-  background-color: rgb(216, 83, 165);
+  background-color: rgb(216, 83, 165, 0.438);
   color: white;
 }
 
@@ -120,7 +120,7 @@ ul {
 }
 
 .button3:hover {
-  background-color: rgb(156, 117, 192);
+  background-color: rgb(156, 117, 192, 0.438);
   color: white;
 }
 
@@ -131,7 +131,7 @@ border: 2px solid rgb(216, 83, 165);
 }
 
 .button4:hover {
-background-color: rgb(216, 83, 165);
+background-color: rgb(216, 83, 165, 0.438);
 color: white;
 }
 
@@ -142,7 +142,7 @@ border: 2px solid rgb(156, 117, 192);
 }
 
 .button5:hover {
-background-color: rgb(156, 117, 192);
+background-color: rgb(156, 117, 192, 0.438);
 color: rgb(255, 255, 255);
 }
 
