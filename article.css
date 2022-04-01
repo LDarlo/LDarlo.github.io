@@ -53,6 +53,7 @@ ul {
 
 h1{font-size: 3cm;}
  
+/*generals*/
   .row{flex-direction:row;}
   .center{text-align: center;}
   .space{justify-content: space-evenly;}
