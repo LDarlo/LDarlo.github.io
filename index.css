@@ -12,7 +12,8 @@ body {
     background-image: url('website_banner_neon.gif');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;}
+    background-size: cover;
+    }
     
       @font-face {
         font-family: myFirstFont;
