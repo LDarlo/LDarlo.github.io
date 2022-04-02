@@ -110,13 +110,12 @@ h1{font-size: 3cm;}
 
 .button3 {
   background-color: rgba(255, 255, 255, 0);
-  color: rgb(156, 117, 192);
+  color: rgb(216, 83, 165);
   border: 2px solid rgb(156, 117, 192);
 }
 
 .button3:hover {
-  background-color: rgb(156, 117, 192, 0.438);
-  color: white;
+  color: rgb(216, 83, 165);
 }
 
 .button4 {
